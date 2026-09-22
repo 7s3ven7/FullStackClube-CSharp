@@ -1,0 +1,16 @@
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\bin\Debug\net10.0\EstruturaDecisaoRepeticao.exe
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\bin\Debug\net10.0\EstruturaDecisaoRepeticao.deps.json
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\bin\Debug\net10.0\EstruturaDecisaoRepeticao.runtimeconfig.json
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\bin\Debug\net10.0\EstruturaDecisaoRepeticao.dll
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\bin\Debug\net10.0\EstruturaDecisaoRepeticao.pdb
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\EstruturaDecisaoRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\EstruturaDecisaoRepeticao.AssemblyInfoInputs.cache
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\EstruturaDecisaoRepeticao.AssemblyInfo.cs
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\EstruturaDecisaoRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\EstruturaDecisaoRepeticao.sourcelink.json
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\EstruturaDecisaoRepeticao.dll
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\refint\EstruturaDecisaoRepeticao.dll
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\EstruturaDecisaoRepeticao.pdb
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\EstruturaDecisaoRepeticao.genruntimeconfig.cache
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\ref\EstruturaDecisaoRepeticao.dll
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\EstruturaDecisaoRepeticao\obj\Debug\net10.0\Estrutur.FB6DFDF1.Up2Date
