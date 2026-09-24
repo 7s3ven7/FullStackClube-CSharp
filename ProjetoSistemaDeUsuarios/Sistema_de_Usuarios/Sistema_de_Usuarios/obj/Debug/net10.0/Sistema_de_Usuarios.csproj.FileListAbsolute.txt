@@ -1,0 +1,16 @@
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\Sistema_de_Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\Sistema_de_Usuarios.AssemblyInfoInputs.cache
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\Sistema_de_Usuarios.AssemblyInfo.cs
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\Sistema_de_Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\Sistema_de_Usuarios.sourcelink.json
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\bin\Debug\net10.0\Sistema_de_Usuarios.exe
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\bin\Debug\net10.0\Sistema_de_Usuarios.deps.json
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\bin\Debug\net10.0\Sistema_de_Usuarios.runtimeconfig.json
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\bin\Debug\net10.0\Sistema_de_Usuarios.dll
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\bin\Debug\net10.0\Sistema_de_Usuarios.pdb
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\Sistema_de_Usuarios.dll
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\refint\Sistema_de_Usuarios.dll
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\Sistema_de_Usuarios.pdb
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\Sistema_de_Usuarios.genruntimeconfig.cache
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\ref\Sistema_de_Usuarios.dll
+C:\Users\7s3ve\Documents\codigo\C#\Full_Stack_Clube\ProjetoSistemaDeUsuarios\Sistema_de_Usuarios\Sistema_de_Usuarios\obj\Debug\net10.0\Sistema_.4C600D49.Up2Date
